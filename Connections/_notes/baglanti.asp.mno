@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kayitveri" value="name:Kimlik;datatype:INTEGER,name:adi;datatype:LONGCHAR,name:soyadi;datatype:LONGCHAR,name:dogtrh;datatype:DATETIME,name:adres;datatype:LONGCHAR,name:tel;datatype:INTEGER" />
+</info>

@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+
+#sayfa {
+	height: auto;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#sayfa #banner {
+	height: 244px;
+	color: #FFF;
+	background-repeat: no-repeat;
+	background-image: url(image/banner.png);
+	width: 900px;
+}
+#sayfa #icerik {
+	height: 600px;
+	background-image: url(image/solmen%C3%BC.jpg);
+}
+#sayfa #icerik #iceriksag {
+	float: right;
+	height: 600px;
+	width: 600px;
+}
+#sayfa #icerik img {
+	padding: 0px;
+	height: 90px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#sayfa #icerik #iceriksag #slider {
+}
+
+#sayfa #icerik #iceriktemizle {
+	clear: both;
+}
+
+
+#sayfa #icerik #iceriksol #iceriksolmenü {
+	height: 355px;
+	width: 230px;
+	background-repeat: no-repeat;
+	color: #003;
+}
+#sayfa #icerik #iceriksol #iceriksolmenü ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#sayfa #icerik #iceriksol #iceriksolmenü ul li a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #003;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 18px;
+	display: block;
+	margin-bottom: 17px;
+	padding-top: 7px;
+	padding-left: 17px;
+}
+#sayfa #icerik #iceriksol #iceriksolmenü p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 18px;
+	margin-bottom: 17px;
+	padding-top: 7px;
+	padding-left: 17px;
+	font-weight: bold;
+	background-color: #033;
+	height: 60px;
+	width: 212px;
+	color: #FFF;
+}
+
+#sayfa #icerik #iceriksol #iceriksolmenü ul li a:hover {
+	background-image: url(image/Ba%C5%9Fl%C4%B1ks%C4%B1z-1.jpg);
+	background-repeat: no-repeat;
+	text-decoration: none;
+}
+#sayfa #icerik #iceriksol #iceriksolicerik h2 {
+	color: #F00;
+}
+#sayfa #icerik #iceriksag #slideralt h2 {
+	color: #FFF;
+	background-color: #030;
+	background-repeat: no-repeat;
+}
+#sayfa #icerik #iceriksag #slideralt p {
+	color: #000;
+}
+
+
+#sayfa #icerik #iceriksol #iceriksolicerik p a {
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+	width: auto;
+}
+#sayfa #icerik #iceriksol #iceriksolicerik p a:hover {
+	text-decoration: underline;
+	background-image: url(image/Ba%C5%9Fl%C4%B1ks%C4%B1z-1.jpg);
+}
+
+
+
+
+
+
+#sayfa #icerik #iceriksol #iceriksolicerik {
+	height: 238px;
+	width: 250px;
+	font-size: 14px;
+}
+
+
+
+
+
+
+#sayfa #icerik #iceriksol {
+	float: left;
+	height: 600px;
+	width: 250px;
+}
+#sayfa #icerik #iceriksag #slideralt {
+	height: 350px;
+}
